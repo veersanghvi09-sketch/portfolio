@@ -1,5 +1,5 @@
 // C++17 Console Portfolio Manager
-// Single-file, no external libs. Features:
+// Single-file,no external libs. Features:
 // - Assets (Stock/ETF/Mutual/Crypto/Other)
 // - Transactions: BUY/SELL/DIVIDEND/DEPOSIT/WITHDRAW/FEES
 // - FIFO lots, average cost, realized & unrealized PnL
